@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "PHP & Excel with ODBC"
-date:   2016-01-07 12:25:14 -0600
-categories: php excel
+date:   2016-01-07 17:25:14 -0600
+categories: posts php
 ---
 
 > Note: This is an old post from before my blog died that I rescued via the Wayback Machine. It was originally found at: http://code.goingasplannedby.us/2011/php-excel-with-odbc/

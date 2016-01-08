@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Ruby: Mass Parameter Passing"
-date:   2016-01-07 12:25:14 -0600
-categories: ruby
+date:   2016-01-07 18:00:14 -0600
+categories: posts ruby
 ---
 
 > Note: This is an old post from before my blog died that I rescued via the Wayback Machine. It was originally found at: http://code.goingasplannedby.us/2011/ruby-mass-parameter-passing/

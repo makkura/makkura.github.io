@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Ruby: Convert Keys To Symbols At All Depths"
-date:   2016-01-07 12:25:14 -0600
-categories: ruby
+date:   2016-01-07 17:45:14 -0600
+categories: posts ruby
 ---
 
 > Note: This is an old post from before my blog died that I rescued via the Wayback Machine.

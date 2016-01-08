@@ -20,4 +20,4 @@ markdown: kramdown
 
 # Windows Configuration Settings via http://jekyll-windows.juthilo.com/
 encoding: utf-8
-highlighter: rouge
+highlighter: pygments

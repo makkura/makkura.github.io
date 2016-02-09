@@ -18,6 +18,11 @@ It was never fully examined as the site was not really be used at that point.
 There were several potential points to be examined including the periodic script to update all the item pricing, the database structure itself, and the VM it was running on.
 This project is my first projct using MonogoDB and an ORM to talk to the database. I felt it could have been the database growth combined with the structure causing slow look up times whenever an item's history data was involved.
 
+**[Gilded Rose Kata]**
+**Tools**: Ruby, RSpec
+This is a refactoring project converted to Ruby and refactored.
+The original source, ruby conversion source, my refactored code, and my rationale on the changes I made are discussed in the Readme.
+
 **[Keyboard Macro Simulator]**  
 **Tools**: Ruby  
 This project roughly simulates the macro keys found on gaming keyboards.
@@ -53,6 +58,7 @@ I heavily commented it for some friends interested in it to get an idea of what 
 The program uses base62 via the alphadecimal gem to convert the row's id to a short string of characters comprised of upper and lower case characters and numbers.  It avoids multiple entries with the same url by returning the existing entry if the url is added again.
 
 [Eve Pricing]: https://github.com/makkura/eve_pricing
+[Gilded Rose Kata]: https://github.com/makkura/gilded_rose_kata
 [Keyboard Macro Simulator]: https://github.com/makkura/keyboard_macros
 [Rcraft]: https://github.com/makkura/rcraft
 [URL Shortener With Sinatra]: https://github.com/makkura/short_url_sinatra

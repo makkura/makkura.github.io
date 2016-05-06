@@ -25,7 +25,7 @@ An specific implementation of this could look like this:
 end
 {% endhighlight %}
 
-** FizzBuzz As A Method **  
+**FizzBuzz As A Method**  
 This does the job but you have to edit it if the requirements change.
 For instance if you want to change the range to 50 to 200.
 Let's make it a little more flexible.
@@ -45,7 +45,7 @@ end
 {% endhighlight %}
 Now we can call fizzbuzz(1, 100) for the same results as the first example or give it any number range we want such as fizzbuzz(50, 200) with our changed requirements.
 
-**Making A More Dynamic FizzBuzz**
+**Making A More Dynamic FizzBuzz**  
 This is a little more flexible but the numbers we're watching for and the text we're printing out is still fixed.
 We'll want to make it even more dynamic to handle those as well.
 

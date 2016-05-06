@@ -9,7 +9,7 @@ Reviewing some ruby and poking around the other night, I ended up making a dynam
 I'm posting it as a step by step process to see some of the transition from the simple example to the dynamic one.
 If you're just here for the method, look towards the bottom!
 
-**Classic FizzBuzz**
+**Classic FizzBuzz**  
 The normal version of FizzBuzz is phrased like so: "Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
 
 An specific implementation of this could look like this:
@@ -25,7 +25,7 @@ An specific implementation of this could look like this:
 end
 {% endhighlight %}
 
-** FizzBuzz As A Method **
+** FizzBuzz As A Method **  
 This does the job but you have to edit it if the requirements change.
 For instance if you want to change the range to 50 to 200.
 Let's make it a little more flexible.

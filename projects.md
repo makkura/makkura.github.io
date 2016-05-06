@@ -18,7 +18,7 @@ It was never fully examined as the site was not really be used at that point.
 There were several potential points to be examined including the periodic script to update all the item pricing, the database structure itself, and the VM it was running on.
 This project is my first projct using MonogoDB and an ORM to talk to the database. I felt it could have been the database growth combined with the structure causing slow look up times whenever an item's history data was involved.
 
-**[Gilded Rose Kata]**
+**[Gilded Rose Kata]**  
 **Tools**: Ruby, RSpec
 This is a refactoring project converted to Ruby and refactored.
 The original source, ruby conversion source, my refactored code, and my rationale on the changes I made are discussed in the Readme.
